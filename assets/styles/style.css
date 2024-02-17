@@ -337,7 +337,6 @@ body > * {
   text-align: justify;
 }
 
-
 .blog .gallery_warpper  > div:last-child::before {
   content: "";
   display: block;
